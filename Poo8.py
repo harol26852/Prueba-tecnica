@@ -63,7 +63,7 @@ class FDSIM():
 
         
 
-class ADSO(FDSIM):
+#class ADSO(FDSIM):
     def _init_(self, NMaprendices, Nsalon, ficha):
         super()._init_(NMaprendices, Nsalon, ficha)
     
